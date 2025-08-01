@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "3231bd27546d345a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb9350ffc7bed9d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03f30fc56326646b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Таски/Создание скелета игры/Создать основную сцену.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Создать основную сцену"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d29cc3ff293285a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa68db98defde4ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Таски/Создание скелета игры/Базовое управление игроком.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Базовое управление игроком"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2aaf734133d216c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "757be67553346a5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a537762819b25ca5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "35bccc8f31584c2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#GameManager",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "bc31b1d9245e2822",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210.5
+  },
+  "right": {
+    "id": "de3a85eee9a4f3b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f62b6dce6d710422",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "528904de5c05eac5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Вехи/Создание скелета игры.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Создание скелета игры"
+            }
+          },
+          {
+            "id": "e42a90a44ad81eb2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Вехи/Создание скелета игры.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Создание скелета игры"
+            }
+          },
+          {
+            "id": "9ab075a5a9c38981",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "4efb02add0405c0e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Вехи/Создание скелета игры.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Создание скелета игры"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a537762819b25ca5",
+  "lastOpenFiles": [
+    "SpaceTavern/README.md",
+    "SpaceTavern",
+    "Вехи/Создание скелета игры.md",
+    "Таски/Создание скелета игры/Создать GameManager.md",
+    "Таски/Создание скелета игры/Базовое управление игроком.md",
+    "Таски/Создание скелета игры/Шаблон задач.md",
+    "Создание.md",
+    "Создание GameManager.md",
+    "Таски/Создание скелета игры/Создать основную сцену.md",
+    "Таски/Создание скелета игры/Создание GameManager.md",
+    "().md",
+    "Таски/Создание скелета игры/Создание2222.md",
+    "2025-07-28.md",
+    "Sin título.md",
+    "Создание скелета игры.md",
+    "Таски/Создание скелета игры",
+    "Концепты/Заметки.md",
+    "Bienvenido.md",
+    "Документация",
+    "Концепты",
+    "Таски",
+    "Вехи"
+  ]
+}
